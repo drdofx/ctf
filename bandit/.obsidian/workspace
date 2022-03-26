@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "fbcea318d01c28e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c8dbde7c54a95f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "level 25.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7125e84c26ca551a",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d3341bcbc8a874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484b951962169fba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1c9ab2bb93d330f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196
+  },
+  "right": {
+    "id": "3f8fe89cb49d4e26",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e0dfbfefac5284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc27e466f1ae11a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "level 25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c8dbde7c54a95f2",
+  "lastOpenFiles": [
+    "level 25.md",
+    "level 24.md",
+    "level 23.md",
+    "level 22.md",
+    "level 17.md",
+    "level 18.md",
+    "level 20.md",
+    "level 21.md",
+    "level 14.md",
+    "level 13.md"
+  ]
+}

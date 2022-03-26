@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "56ff3f1f1ece0d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4e5f0bc147ce6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Irish-Name-Repo 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042141e5cd34e96e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5144b40fd2f3b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebb133c1451a416",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2b683be197ebb13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f06da05e0aa5de20",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e901dd5d66506ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11ab9794310358b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Irish-Name-Repo 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d4e5f0bc147ce6e",
+  "lastOpenFiles": [
+    "Irish-Name-Repo 3.md",
+    "Irish-Name-Repo 1.md",
+    "Irish-Name-Repo 2.md",
+    "Insp3ct0r.md",
+    "client-side-again.md",
+    "dont-use-client-side.md",
+    "picobrowser.md",
+    "where are the robots.md",
+    "logon.md",
+    "first grep.md"
+  ]
+}
