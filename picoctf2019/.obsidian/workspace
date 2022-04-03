@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#general-skills",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -90,7 +90,6 @@
   "active": "1d4e5f0bc147ce6e",
   "lastOpenFiles": [
     "where are the robots.md",
-    "JaWT Scratchpad.md",
     "whats a netcat.md",
     "Warmed Up.md",
     "strings it.md",
@@ -98,6 +97,7 @@
     "picobrowser.md",
     "mus1c.md",
     "logon.md",
-    "Lets Warm Up.md"
+    "Lets Warm Up.md",
+    "JaWT Scratchpad.md"
   ]
 }
