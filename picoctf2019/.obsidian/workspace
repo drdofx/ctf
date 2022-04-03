@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Irish-Name-Repo 3.md",
+            "file": "where are the robots.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220
   },
   "right": {
     "id": "f06da05e0aa5de20",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Irish-Name-Repo 3.md",
+                "file": "where are the robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1d4e5f0bc147ce6e",
   "lastOpenFiles": [
-    "Irish-Name-Repo 3.md",
-    "Irish-Name-Repo 1.md",
-    "Irish-Name-Repo 2.md",
-    "Insp3ct0r.md",
-    "client-side-again.md",
-    "dont-use-client-side.md",
-    "picobrowser.md",
     "where are the robots.md",
+    "JaWT Scratchpad.md",
+    "whats a netcat.md",
+    "Warmed Up.md",
+    "strings it.md",
+    "plumbing.md",
+    "picobrowser.md",
+    "mus1c.md",
     "logon.md",
-    "first grep.md"
+    "Lets Warm Up.md"
   ]
 }
