@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Magikarp Ground Mission.md",
-            "mode": "preview",
+            "file": "Some Assembly Required 2.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#general-skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magikarp Ground Mission.md",
+                "file": "Some Assembly Required 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "dd43704b348d03a3",
   "lastOpenFiles": [
+    "Some Assembly Required 2.md",
+    "Scavenger Hunt.md",
+    "Some Assembly Required 1.md",
     "Magikarp Ground Mission.md",
-    "Tab, Tab, Attack.md",
-    "Wave a flag.md",
-    "Static ain't always noise.md",
+    "GET aHEAD.md",
     "Python Wrangling.md",
-    "Nice netcat....md",
-    "Obedient Cat.md"
+    "Tab, Tab, Attack.md",
+    "Static ain't always noise.md",
+    "Cookies.md",
+    "Nice netcat....md"
   ]
 }
